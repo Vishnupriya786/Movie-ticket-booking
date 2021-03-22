@@ -98,8 +98,7 @@ int main()
             else
             {
             	printf("Invalid move ");
-                getch();
-			}
+	    }
         
         }while (i ==   0);
         board();
