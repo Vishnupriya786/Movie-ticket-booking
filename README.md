@@ -1,2 +1,2 @@
 # Movie-ticket-booking
-It was done using C. It provides customer facility to book  tickets online. Movie selection, time and seat  reservation and ticket booking process were developed.
+It was a mini-project done using C language. It provides a customer facility to book tickets online. Movie selection, time and seat reservation, and the ticket booking process were developed.
